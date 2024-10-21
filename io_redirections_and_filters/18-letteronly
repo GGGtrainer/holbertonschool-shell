@@ -1,0 +1,2 @@
+#!/bin/bash
+grep --ignore-case -E "^[a-z]" /etc/ssh/sshd_config
